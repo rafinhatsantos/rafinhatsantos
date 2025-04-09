@@ -1,6 +1,6 @@
 ## OI Meu nome é Rafael Tavares e seja bem vindo ao meu Perfil 👋
 
-- 🔭 Desenvolvedor FullStack na Oficina Brasil
+- 🔭 Desenvolvedor na Oficina Brasil
 - 🌱 Estudando TypeScript
 - 📫 Contato: rafaeltsantos.dev@gmail.com
 
