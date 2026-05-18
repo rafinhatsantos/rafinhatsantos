@@ -1,7 +1,7 @@
 ## OI Meu nome é Rafael Tavares e seja bem vindo ao meu Perfil 👋
 
 - 🔭 Desenvolvedor na Oficina Brasil
-- 🌱 Estudando TypeScript
+- 🌱 Estudando o uso de IA no dia dia de um DEV
 - 📫 Contato: rafaeltsantos.dev@gmail.com
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafinhatsantos&show_icons=true&theme=radical)](https://github.com/rafinhatsantos/github-readme-stats)
