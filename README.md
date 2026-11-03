@@ -16,7 +16,7 @@
 I'm a full stack developer who ships end to end: from the database model and the REST API to the web page and the mobile screen.
 Most of my work lives in private company repositories, so this page is a summary of what I build day to day.
 
-- 🚀 **~1,000 commits** across web, backend and mobile codebases since 2025
+- 🚀 **~1,000 commits** across web, backend and mobile codebases
 - 🔁 Comfortable owning a feature from the first ticket to production deploy
 - 🤖 Currently exploring **AI agents applied to the developer workflow**
 
